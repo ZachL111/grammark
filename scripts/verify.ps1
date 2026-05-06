@@ -56,3 +56,8 @@ foreach ($pathPattern in $knownPaths) {
 }
 
 node tests/policy.test.js
+
+
+node tests/domainReview.test.js
+
+powershell -NoProfile -ExecutionPolicy Bypass -File scripts/check-grammark-detail.ps1
