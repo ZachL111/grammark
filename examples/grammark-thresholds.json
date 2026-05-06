@@ -1,0 +1,17 @@
+{
+  "repo": "grammark",
+  "thresholds": {
+    "signal": 3,
+    "slack": 2,
+    "confidence": 2,
+    "drag": 2,
+    "ship": 184,
+    "watch": 114
+  },
+  "terms": [
+    "change width",
+    "diagnostic quality",
+    "review cost",
+    "safe rewrite"
+  ]
+}
